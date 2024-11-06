@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-Andrew Schmitz
-aschmitz@ucsd.edu
+Andrew Schmitz and Diego Silva
